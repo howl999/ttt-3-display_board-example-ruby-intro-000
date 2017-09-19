@@ -9,3 +9,5 @@ it 'prints a 3x3 tic tac toe board' do
     expect(output_array[3]).to include("-----------")
     expect(output_array[4]).to include("   |   |   ")
 end
+
+output_array
