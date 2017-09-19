@@ -11,4 +11,3 @@ it 'prints a 3x3 tic tac toe board' do
 
     puts output_array
 end
-
